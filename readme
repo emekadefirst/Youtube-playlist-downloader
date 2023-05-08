@@ -1,0 +1,16 @@
+ALL PACKAGE HAS BEEN INSTALLED IN THE VIRTUAL ENVIRONMENT 
+ALL YOU HAVE TO DO IS TO ACTIVATE THE VIRTUAL ENVIRONMENT BY RUNNING THE FOLLWING CODE 
+for bash terminal
+windows --> source virtual_env/Scripts/activate
+mac --> source virtual_env/bin/activate
+linux --> source virtual_env/bin/activate
+
+REGULAR TERMINAL
+windows --> virtual_env\Scripts\activate
+mac --> source virtual_env/bin/activate
+
+now run the next code below
+python ytp.py 
+and hit enter on your keyboard
+
+type deactivate to deactivate the virtual environment
